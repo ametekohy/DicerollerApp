@@ -58,4 +58,4 @@ After installation, you can launch the app and start rolling the dice by pressin
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ametekohy/DicerollerApp/blob/main/LICENSE) file for details.
