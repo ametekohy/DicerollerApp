@@ -25,10 +25,10 @@ The Dice Roller App is a straightforward Flutter application designed to simulat
 
 Here are some screenshots of the Dice Roller App:
 
-![Initial Screen](screenshots/screenshot_before_push_button.png)
+![Initial Screen](https://github.com/ametekohy/DicerollerApp/blob/main/assets/screenshots/screenshot_before_push_button.png)
 *Initial screen when the app is launched.*
 
-![Dice Rolled](screenshots/screenshot_after_push_button.png)
+![Dice Rolled](https://github.com/ametekohy/DicerollerApp/blob/main/assets/screenshots/screenshot_after_push_button.png)
 *Screen after rolling the dice.*
 
 ## Installation
